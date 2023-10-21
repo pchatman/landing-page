@@ -31,10 +31,9 @@ For specific, detailed instructions, look at the project instructions in the Uda
   css
 
   - styles.css  
-    index.html
-    js
+  - index.html
   - app.js
-    README.md
+  - README.md
 
 <div align="center">
   <img src="images/image-landing-page.png"  alt="image of landing page" width="600" height="300"/>
