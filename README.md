@@ -28,8 +28,9 @@ For specific, detailed instructions, look at the project instructions in the Uda
 - The user does not need special tools to view the project. The project utilizes imported Google fonts that may not display if the user has not installed the fonts or does not have an internet connection.
 - The project used false links and hyperlinks as placements for the project.
 
-  - styles.css
-  - index.html
+  - styles.css  
+    index.html
+    js
   - app.js
   - README.md
 
